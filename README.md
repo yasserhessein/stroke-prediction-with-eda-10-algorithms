@@ -5,6 +5,8 @@ According to the World Health Organization (WHO) stroke is the 2nd leading cause
 
 ## Exploratory Data Analysis
 
+Exploratory Data Analysis (EDA) is the method of examining a dataset to learn about its main characteristics. The dataprep.eda package makes this step easier by allowing users to explore key characteristics using simple APIs. Each API allows the user to examine the dataset at various levels, from high to low, and from various angles. Especially.
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYfRclj8FnDD3fE9BQNivtsj1XBoFg89AWeGgYRgyldGk_nKvfGe0q-OVDw-8deNpSA4&usqp=CAU" width="500px">
 
 
