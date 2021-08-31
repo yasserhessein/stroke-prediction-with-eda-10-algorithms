@@ -4,7 +4,7 @@ According to the World Health Organization (WHO) stroke is the 2nd leading cause
 <img src="https://guardian.ng/wp-content/uploads/2017/06/brainomixstroke.jpg" width="500px">
 
 
-![Link the Project ](https://www.kaggle.com/yasserhessein/stroke-prediction-with-eda-10-algorithms)
+[Link the Project ](https://www.kaggle.com/yasserhessein/stroke-prediction-with-eda-10-algorithms)
 
 
 
